@@ -1,0 +1,9 @@
+[submodule "portfolio"]
+	path = portfolio
+	url = git@github.com:keke1022/portfolio.git
+[submodule "shshop"]
+	path = shshop
+	url = git@github.com:keke1022/SHShop.git
+[submodule "blog-diary"]
+	path = blog-diary
+	url = git@github.com:keke1022/blog-diary.git

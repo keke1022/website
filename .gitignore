@@ -1,0 +1,4 @@
+Blog
+*.bak
+.DS_Store
+dist
